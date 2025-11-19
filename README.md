@@ -1,4 +1,4 @@
-# Lab03_Structured_Streaming
+# LAB 3 BIG DATA PROCESSING
 ## Authors:
 - Sacha FRANCFORT
 - Masao COUDEVILLE
